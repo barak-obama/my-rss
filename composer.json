@@ -1,3 +1,12 @@
-"require": {
-  "ext-mbstring": "*"
+{
+    "name": "obama/tt-rss",
+    "require": {
+        "ext-mbstring": "^7.1"
+    },
+    "authors": [
+        {
+            "name": "Barak Obama",
+            "email": "barak.oh16@gmail.com"
+        }
+    ]
 }
